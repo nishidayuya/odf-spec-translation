@@ -1,0 +1,7 @@
+%20090318~233220	%%User ID,AU,AU Anaphraseus User,y yuya	%TU=00000000	%EN-US	%Wordfast TM v.5.51b/00	%JA-01	%---12345678					
+20090318~233619&'9;AU&'9;0&'9;EN-US&'9;A list of XML namespaces declared by this  specification is available in section 1.3.&'9;JA-01&'9;この仕様で言及されたXML名前空間のリストは1.3節で利用できる．
+20090318~234422&'9;AU&'9;0&'9;EN-US&'9;Headings define the chapter structure for a document.&'9;JA-01&'9;見出しとは文書の章構成を定義するものである．
+20090318~234838&'9;AU&'9;0&'9;EN-US&'9;4.1.1Headings&'9;JA-01&'9;見出し
+20090318~235048&'9;AU&'9;0&'9;EN-US&'9;Heading Level&'9;JA-01&'9;見出しレベル
+20090318~235234&'9;AU&'9;0&'9;EN-US&'9;Heading Numbering&'9;JA-01&'9;見出しの番号付け
+20090318~235455&'9;AU&'9;0&'9;EN-US&'9;Header numbering can be changed by additional attributes, similar to those on list items (see section 4.3.2, below).&'9;JA-01&'9;見出しの番号付けはリストアイテムのように追加属性で変えることができる（4.3.2節参照）．
